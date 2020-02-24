@@ -1,0 +1,24 @@
+.nav{
+    grid-area: n;
+    background-color: burlywood;
+    /* background: linear-gradient(to bottom, #e5eecc , #a2d4ab, #3eacA8, #547A82, #5a5050 ); */
+    padding: 20px;
+  }
+
+.item a {
+    color: white;
+    text-decoration: none;
+
+  }
+
+/* .item img{
+
+  width: 60px;
+  height: 60px;
+  border-radius: 70px;
+  padding: 4px;
+} */
+
+  .item a.activeLink{
+    color: red;
+  }

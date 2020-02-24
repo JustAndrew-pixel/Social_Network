@@ -1,0 +1,11 @@
+.header{
+    grid-area: h;
+    /* background-color: green; */
+    background-color: #e5eecc;
+    /* background: linear-gradient(to bottom, #e5eecc , #a2d4ab); */
+    }  
+    
+    .header img{
+      width: 40px;
+    }
+  

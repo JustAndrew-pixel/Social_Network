@@ -1,0 +1,43 @@
+.dialogs{
+display: grid;
+grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems{
+
+    padding: 10px;
+    
+   
+}
+
+.dialogsItems img{
+
+    width: 60px;
+    height: 60px;
+    border-radius: 70px;
+    padding: 4px;
+   
+}
+.dialogsItems a{
+
+    text-decoration: none;
+    
+}
+
+.dialogsItems .active{
+
+    color: peru;
+}
+
+
+.messages{
+    padding: 10px;
+    
+    
+}
+
+.messages .message{
+
+
+}
+

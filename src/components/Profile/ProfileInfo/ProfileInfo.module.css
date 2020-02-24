@@ -1,0 +1,12 @@
+.item{
+   /* background: crimson; */
+}
+
+.item img{
+    width: 500px;
+    
+}
+
+.descriptionBlock{
+    padding: 10px;
+}
